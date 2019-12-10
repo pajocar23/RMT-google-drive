@@ -1,0 +1,7 @@
+nikola,mikola,false,https://nikolaDISK_LINK.mmklab
+marko,markic,false,https://markoDISK_LINK.mmklab
+Uros,Dedovic,true,https://UrosDISK_LINK.mmklab
+pavlito,mavlito,false,https://pavlitoDISK_LINK.mmklab
+Milos,djurko,true,https://MilosDISK_LINK.mmklab
+kola,kola,true,https://kolaDISK_LINK.mmklab
+pavle,pavle23,true,https://pavleDISK_LINK.mmklab
